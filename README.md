@@ -12,7 +12,7 @@ We use POEditor to translate Covenant user interface to multiple human languages
 
 To contribute or review translations, please join https://poeditor.com/join/project/XkIHsy5QGp
 
-You many select one of the existing languages or add your own language to the translation list. Feel free to edit any translation that you like. 
+You may select one of the existing languages or add your own language to the translation list. Feel free to edit any translation that you like. 
 
 # Acknowledgments
 
