@@ -1,10 +1,14 @@
 # cov-translate
 Translations and localizations for Covenant
-https://covn.org
 
-Released as open source under the Apache License v2. 
+Website: https://covn.org
 
-By participating in this project, you agree to our Contributor Agreement (https://github.com/covenantproject/covenant/blob/master/contributor-agreement.txt)
+(c) 2020 Covenant Team
+
+Released as open source under the Apache License v2.
+
+# Contributor Agreement
+By contributing ideas or code to this project, you agree to  https://github.com/covenantproject/covenant/blob/master/contributor-agreement.txt
 
 # How to translate Covenant?
 
